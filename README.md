@@ -3,7 +3,9 @@
 
 
 Decision Trees - Classification and Regression
+
 Neural Nets - Logistic and Linear Regression, Autoencoders and Neural Nets
+
 Reinforcemnet Learning
 
 ## Environment setup
